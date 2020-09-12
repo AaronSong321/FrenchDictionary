@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FrenchService_CSCore": {
+      "commandName": "Executable",
+      "executablePath": "E:\\Aaron\\csharpproj\\Dictionary\\FrenchService_CSCore\\bin\\Debug\\netcoreapp3.1\\FrenchService.exe",
+      "commandLineArgs": "test --announce"
+    }
+  }
+}
